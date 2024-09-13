@@ -33,6 +33,7 @@ I turn raw data into meaningful stories and actionable insights. With a passion 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prayush-sthapit)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prayushsthapit2@gmail.com)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://prayush-portfolio.me)
 
 ## 💡 Quote
 
