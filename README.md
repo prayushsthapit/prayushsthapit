@@ -6,7 +6,7 @@ I turn raw data into meaningful stories and actionable insights. With a passion 
 ![prayushsthapit's Stats](https://github-readme-stats.vercel.app/api?username=prayushsthapit&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 🛠️ Tech Stack
-Python https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white
+Python 
 R
 SQL
 Pandas
