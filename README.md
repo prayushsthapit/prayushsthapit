@@ -26,10 +26,11 @@ How to Perform A/B Testing: A Step-by-Step Guide
 Demystifying Machine Learning for Business Analytics
 
 🤝 Let's Connect!
-[LinkedIn
-[Twitter
-[Portfolio 💡 "In God we trust. All others must bring data." - W. Edwards Deming
-This README profile showcases your skills with tech logos, highlights key projects, displays your GitHub stats, and provides links to your latest blog posts and social media profiles. Remember to replace the placeholder text, links, and username with your actual information and project details. You can further customize this template by adding or removing sections based on your preferences and the specific aspects of your work you want to highlight.
+linkedin.com/in/prayush-sthapit
+prayushsthapit2@gmail.com
+
+💡 "In God we trust. All others must bring data." - W. Edwards Deming
+
 
 
 
