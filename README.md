@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Prayush Sthapit
 
-## 🖥️ IT Support Engineer | 🌐 Networking | ☁️ Cloud Enthusiast
+## 🖥️ IT Support Engineer → Cloud Security | CompTIA A+
 
 IT Support Engineer based in Prince Edward Island, Canada, with 2 years of experience as a Technical Assistant at SmartChoice Technologies and CompTIA A+ certification. Passionate about troubleshooting, helping people make technology work for them, and growing expertise across networking, cloud platforms, and security.
 
