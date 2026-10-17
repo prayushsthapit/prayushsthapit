@@ -33,7 +33,8 @@ IT Support Engineer based in Prince Edward Island, Canada, with 2 years of exper
 - **[IT Support Home Lab](https://github.com/prayushsthapit/it-support-home-lab)** — *Planned:* virtualized lab with Windows & Linux VMs, Active Directory, ticketing practice
 - **[Python Automation for IT](https://github.com/prayushsthapit/python-automation-for-it)** — *Planned:* scripts for bulk user setup, log parsing, system health reports
 - **[Home Network Build](https://github.com/prayushsthapit/home-network-build)** — *Planned:* segmented home network with VLANs, DNS filtering, monitoring
-- **[AWS Cloud Labs](https://github.com/prayushsthapit/aws-cloud-labs)** — *Planned:* hands-on labs with EC2, S3, IAM toward AWS Certified Cloud Practitioner
+- **[AWS Cloud Labs](https://github.com/prayushsthapit/aws-cloud-labs)**
+- **[SOC Home Lab](https://github.com/prayushsthapit/soc-home-lab)** — *Planned:* home SIEM lab with Wazuh, log analysis, incident response practice — *Planned:* hands-on labs with EC2, S3, IAM toward AWS Certified Cloud Practitioner
 
 ## 🤝 Let's Connect!
 
